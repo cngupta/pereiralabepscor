@@ -1,0 +1,59 @@
+
+
+**The AR-OK-LA Rice Consortium (AOLRC)** comprising a network of 
+participants across 3 states, where **agriculture** has a significant contribution to 
+the economy, propose to work together with complementary expertise and resources to address 
+a looming problem of **high night temperature (HNT)** in their states and worldwide. The AOLRC
+ members, with complementary expertise and scientific approach with their role and contribution 
+ to this project are listed below:
+ 
+### UA, Fayetteville
+* **Andy Pereira**: rice genomics and systems genetics, 
+	 integrating rice crop genetic, genomic and phenotyping data into gene networks, 
+	 and applications for industry. 
+	<a href="https://crop-soil-environmental-sciences.uark.edu/people/faculty-directory/uid/apereira/name/Andy+Pereira/" target="_blank">(bio)</a>
+
+* **Vibha Srivastava**: Genetic transformation and gene editing
+	<a href="https://crop-soil-environmental-sciences.uark.edu/people/faculty-directory/uid/vibhas/name/Vibha+Srivastava/" target="_blank">(bio)</a>
+
+
+* **Ken Korth**: Heat stress response at anthesis
+   	<a href="https://experts.uark.edu/experts/1977/ken-korth" target="_blank">(bio)</a>
+
+* **Ya-Jane Wang**: Starch quality biochemical analysis
+    <a href="https://food-science.uark.edu/directory/index/uid/yjwang/name/Ya-Jane+Wang/" target="_blank">(bio)</a>
+    
+* **Ainong Shi**: Genetic statistics modeling and GWAS
+   	<a href="https://horticulture.uark.edu/people/faculty/uid/ashi/name/Ainong+Shi/" target="_blank">(bio)</a>
+
+
+### UA, Rice Research & Extension Center 
+* **Ehsan Shakiba**: Field screening, analysis of grain yield and quality parameters 
+   	<a href="https://crop-soil-environmental-sciences.uark.edu/people/faculty-directory/uid/eshakiba/name/Ehsan+Shakiba/" target="_blank">(bio)</a>
+
+* **Xueyan Sha**: US cultivar marker & pedigree analysis
+   	<a href="https://crop-soil-environmental-sciences.uark.edu/people/faculty-directory/uid/xsha/name/Xueyan+Sha/" target="_blank">(bio)</a>
+
+* **Paul Allen Counce**: Grain enzymes heat activity analysis
+   	<a href="https://crop-soil-environmental-sciences.uark.edu/people/faculty-directory/uid/pcounce/name/Paul+Allen+Counce/" target="_blank">(bio)</a>
+
+
+### UA, Little Rock 
+* **Mariya Khodakovskaya**: HNT metabolomics of grain carbohydrates
+   	<a href="https://ualr.edu/appliedscience/maria-v-khodakovskaya/" target="_blank">(bio)</a>
+
+* **Stephen Grace**: 
+
+* **Scott Woolbright**: 
+
+### Oklahoma State University
+* **Ramanjulu Sunkar:** small RNA & miRNA analysis
+   	<a href="http://biochemistry.okstate.edu/people/faculty/dr_ramanjulu_sunkar" target="_blank">(bio)</a>
+
+* **Ellie Nguyen:** plant molecular biology 
+	<a href="http://biochemistry.okstate.edu/people/faculty/dr-ellie-phuong-d-nguyen" target="_blank">(bio)</a>
+
+
+### Louisiana State University
+* **Adam Famoso**: HNT-marker development & pedigree analysis of US/LSU cultivars
+	<a href="https://www.lsuagcenter.com/profiles/afamoso" target="_blank">(bio)</a>

@@ -1,0 +1,26 @@
+#### Overview of the problem addressed
+
+Increases in cereal crop production and stability need to keep up with the growing demand 
+of the human population, which is predicted to increase from 7.6 billion in 2017 to 8.6 
+billion by 2030. While many **abiotic stresses** can occur locally or 
+randomly in a season to decrease crop production, the **global average temperature** is predicted 
+to increase consistently by 0.2°C each decade in the next 20-30 years, 
+with future projections in the range of 1.4–5.8°C by the end of the century. 
+In contrast, to **ensure food security** world food crops such as rice need to increase production 
+by 0.6 to 0.9% annually. 
+
+Data on post-harvest milling and processing of rice varieties grown in Arkansas, 
+assessed that a **1°C increase** in average growing season temperature **reduces** paddy yield by 6.2%, 
+total milled rice yield by 7.1-8.0%, head rice yield by 9.0-13.8%, and total milling revenue 
+by 8.1-11.0% across multiple genotypes. During vegetative growth rice can 
+tolerate **high temperatures** up to 35/25°C day/night regime, however higher temperatures than
+ this critical level reducing plant height, tiller number, total dry weight and yield potential. 
+ Photosynthesis is reduced by 11.2% and 35.6% at 
+ temperatures of 3.6°C and 7.0°C higher than ambient during the heading to ripening stage. 
+ US rice exports are 3rd in the world in terms of export value,
+   with Arkansas the leading rice producer accounting for ~50% of US rice production, 
+   worth $2 billion annually. Currently, Arkansas rice farmers suffer yield losses due 
+   to increasing air temperature. In the coming years, more frequent and severe incidences 
+   of heat waves are expected, posing a major threat to rice production in Arkansas as 
+   well as other parts of the US. A **fast-track molecular-breeding strategy**
+    for improving heat tolerance is therefore needed.

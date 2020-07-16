@@ -1,0 +1,33 @@
+---
+title: "Comment Box"
+output: html_document
+---
+
+<style>
+p.comment {
+background-color: #DBDBDB;
+padding: 10px;
+border: 1px solid grey;
+margin-left: 25px;
+border-radius: 5px;
+font-style: italic;
+}
+
+</style>
+
+
+<img src="images/network.png" alt="drawing" width="100%" height="100%"/>
+
+<p class="comment">
+
+Award number:1826836<br><br>
+Title: RII Track-2 FEC: Systems Genetics Studies on Rice Genomes for Analysis of 
+Grain Yield and Quality Under Heat Stress<br><br>
+Awardee Institution: University of Arkansas, Fayetteville (UAF)<br><br>
+PI: Andy Pereira<br><br>
+Participating institutions:<br>
+&nbspUniversity of Arkansas-Little Rock, AR (UALR)<br>
+&nbspOklahoma State University, Stillwater, OK (OSU)<br>
+&nbspLouisiana State University, Baton Rouge, LA (LSU)<br>
+</ul>
+</p>

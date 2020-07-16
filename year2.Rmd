@@ -1,0 +1,26 @@
+### Major outcomes in year 2
+
+1. Rice cultivars are most sensitive to heat stress at R2 through R5 reproductive phases 
+that represent booting to anthesis stages. While daytime temperature was found to have 
+greater effect on yield components, the nighttime temperatures was found to control 
+chalkiness, a major quality trait defined by opaque areas in the grain that 
+is associated with low marketability and low milled rice yields in US rice industry. 
+
+
+2. Pattern of starch granules (small and round vs large and edged) determines % 
+chalk in rice grains. This pattern is genotype-dependent and correlates 
+with the expression pattern of starch synthesis genes, ADP-Glucose Phosphorylase Large 
+Subunit 4, Starch Synthase IIA, and Granule Bound Starch Synthase I. Break in the 
+temporal coordination in these genes under HNT condition leads to round granules that
+ generate high % chalk 
+ 
+3. The gene regulatory network of rice, developed using publicly available datasets 
+ in NCBI, was probed with genes that differentially express in response to HNT. The 
+ predicted regulators of the perturbed starch genes mainly belong to the NAC and CCAAT 
+ gene families. The DNA-binding sites of a few predicted regulators are over-represented 
+ within the 1000 bp promoter regions of starch synthesis genes. Changes in the expression
+  of these candidate regulators could be associated with the break in temporal 
+  coordination of their target starch synthesis genes   
+
+
+

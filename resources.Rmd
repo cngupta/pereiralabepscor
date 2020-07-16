@@ -1,0 +1,36 @@
+
+## Bioinformatics tools
+
+<font size="3">
+
+1. <a href="http://rrn.uark.edu/starchnet/#/" target="_blank">StarchNet</a>
+
+2. <a href="https://plantstress-pereira.uark.edu/RECoN/" target="_blank">RECoN</a>
+
+3. <a href="https://plantstress-pereira.uark.edu/oryza-quality/" target="_blank">SNP2Gene</a>
+
+</font>
+
+
+
+## Publications
+1. Lee MW, Padilla CS, Gupta C, Galla A, Pereira A, Li J, Goggin FL (2020) 
+The FATTY ACID DESATURASE2 family in tomato contributes to primary metabolism and stress 
+responses. Plant Physiology. 182(2):1083-1099. 
+<a href="https://doi.org/10.1104/pp.19.00487" target="_blank"> link </a>
+
+2. Baisakh, Niranjan; Yabes, Jonalyn; Gutierrez, Andres; Mangu, Venkata; Ma, Peiyong; 
+Famoso, Adam; Pereira, Andy (2020) Genetic Mapping Identifies Consistent Quantitative 
+Trait Loci for Yield Traits of Rice under Greenhouse Drought Conditions. Genes 11(1)62. 
+<a href="https://doi.org/10.3390/genes11010062" target="_blank"> link </a> 
+
+3. Singh, Raksha; Liyanage, Rohana; Gupta, Chirag; Lay Jr, Jackson O; Pereira, 
+Andy; Rojas, Clemencia M (2020) The Arabidopsis proteins AtNHR2A and AtNHR2B are 
+multi-functional proteins integrating plant immunity with other biological processes. 
+Frontiers in Plant Science. 11: 232. 
+<a href="https://doi.org/10.3389/fpls.2020.00232" target="_blank"> link </a> 
+
+4. Gupta, Chirag; Ramegowda, Vankategowda; Basu, Supratim; Pereira, Andy (2020) 
+Prediction and characterization of transcription factors involved in drought stress response.
+ bioRxiv 2020,  
+<a href="https://doi.org/10.1101/2020.04.29.068379" target="_blank"> link </a>
